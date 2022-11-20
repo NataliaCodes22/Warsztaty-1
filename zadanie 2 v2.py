@@ -11,7 +11,7 @@ def get_number():
     """
     while True:
         try:
-            result = int(input("Chose the number: "))
+            result = int(input("Choose the number: "))
             break
         except ValueError:
             print("It's not a number")
