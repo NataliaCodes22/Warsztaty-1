@@ -43,7 +43,7 @@ def print_numbers(numbers):
 
 
 def drawing_numbers():
-    """Chose 6 random numbers.
+    """Choose 6 random numbers.
 
     :rtype: list
     :return: list with 6 random numbers
